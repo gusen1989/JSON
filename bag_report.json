@@ -1,11 +1,8 @@
-{"bag_report": }
- {
-"Summary"
-"Steps to reproduce"
-"Result"
-"Expected Result"
-"Severity"
-"Priority"
+
+{
+   "Summary":5,
+   "Steps to reproduce":"open",
+   "Result":"open",
+   "Expected Result":"open",
+   "Severity":"Priority"
 }
-
-
