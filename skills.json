@@ -1,6 +1,10 @@
 {
-	"Qa skills": "git",
-	"gitbash": "jmetr",
-	"Charles": "Postman",
-	"Fiddler": "devtools"
+	"Qa_skills":
+	"git",
+	"gitbash":
+	"jmetr",
+	"Charles":
+	"Postman",
+	"Fiddler":
+	"devtools"
 }
