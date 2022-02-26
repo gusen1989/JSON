@@ -2,10 +2,12 @@
 	"Qa_skills": 7,
 
 	"git": 1,
-	"gitbash": 2,
+	"githab": 2,
 	"jmetr": 3,
 	"Charles": 4,
 	"Postman": 5,
 	"Fiddler": 6,
-	"devtools": 7
+	"devtools": 7,
+        "SQL": 8
+	
 }
